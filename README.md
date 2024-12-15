@@ -87,8 +87,8 @@
 
 <!-- Stats Section -->
 <div style="display: flex; gap: 20px;">
-  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashwantBhole&show_icons=true&locale=en&layout=compact" alt="yashwantbhbhole" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YashwantBhole&show_icons=true&locale=en" alt="yashwantbhbhole" />
+  <img align="left" height="200" width="330" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashwantBhole&show_icons=true&locale=en&layout=compact" alt="yashwantbhbhole" />
+  <img align="center" height="200"  width="350" src="https://github-readme-stats.vercel.app/api?username=YashwantBhole&show_icons=true&locale=en" alt="yashwantbhbhole" />
 </div>
 
 <!-- Hover effect for icons -->
