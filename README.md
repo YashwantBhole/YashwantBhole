@@ -14,21 +14,24 @@
 <img align="right" alt="coding" width="500" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" />
 
 ### Bio
-- 🌱 I’m currently learning **Node.js, Express.js**
+- 🌱 I’m currently mastering **Node.js, Express.js**
 - 💬 Ask me about **MERN Stack Development**
 - 📫 Reach me at **yashwantbhole2004@gmail.com**
 - 🚀 Passionate about building scalable web applications and exploring the latest technologies.
-
+- 🔍 Always exploring the latest in web technologies, AI, and cloud computing.
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/yashwant-bhole" target="blank" >
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="yashwant-bhole" height="40" width="40" />
-  </a>
-  <a href="https://instagram.com/yashwant_bhole_07" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" alt="yashwant_bhole_07" height="40" width="40" />
-  </a>
+<a href="https://www.linkedin.com/in/yashwantbhole/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>  
+<a href="https://github.com/YashwantBhole" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://instagram.com/yashwant_bhole_07" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
