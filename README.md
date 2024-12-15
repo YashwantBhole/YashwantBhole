@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack web developer</h3>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/https://drive.google.com/file/d/https://drive.google.com/file/d/1Bx5xGQN4u00xJTllODWGpHlrLXEk1S9j/view?usp=sharing/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1Bx5xGQN4u00xJTllODWGpHlrLXEk1S9j/view?usp=sharing/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
