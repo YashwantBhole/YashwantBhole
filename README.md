@@ -57,7 +57,7 @@
 
 #### ☁️ Cloud & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify" height="45"/>
+  <img src="https://skillicons.dev/icons?i=aws,render,vercel,netlify" height="45"/>
 </p>
 
 ---
