@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=YashwantBhole&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<img align="right" alt="developer reaction" width="500" height="500" src="https://i.imgur.com/rTZkf4K.gif" />
+<img align="right" alt="coding" width="390" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
 
 ---
 
@@ -25,8 +25,6 @@
 - 💡 Passionate about **building impactful projects** in web dev + AI  
 - 🛡️ Cybersecurity enthusiast with hands-on projects  
 - 📫 Reach me at **yashwantbhole2004@gmail.com**
-
----
 
 ### 🌐 Connect with Me
 <p align="left">
