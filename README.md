@@ -56,7 +56,7 @@
 </p>
 
 #### ☁️ Deployment
-<p>
+
 #### ☁️ Cloud & Deployment
 <p>
   <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify" height="45"/>
@@ -67,7 +67,7 @@
 
 ### ✨ Highlights
 - ✔️ Built multiple **MERN stack apps** (Notes,imdb clone, E-commerce)  
-- ✔️ Worked on **Cybersecurity ML project** (Phishing Website Detector)  
+- ✔️ Worked on **Cybersecurity ML project** (Password strength analyzer)  
 - ✔️ Exploring **Text + Image Generation AI models** with Hugging Face  
 
 ---
