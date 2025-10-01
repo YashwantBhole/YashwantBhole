@@ -11,14 +11,14 @@
   <img src="https://komarev.com/ghpvc/?username=YashwantBhole&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<img align="right" alt="coding" width="420" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
+<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
 
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently learning **AI, Machine Learning & Agentic AI concepts**
-- 💡 Skilled in **MERN Stack Development & Cybersecurity**
-- 🚀 Exploring **RAG, Generative AI (Text & Image), and AI model deployment**
+- 🌱 Exploring **AI, ML, and Agentic AI** after completing **MERN stack journey**  
+- 💡 Passionate about **building impactful projects** in web dev + AI  
+- 🛡️ Cybersecurity enthusiast with hands-on projects  
 - 📫 Reach me at **yashwantbhole2004@gmail.com**
 
 ---
@@ -38,34 +38,46 @@
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="center">
-  <!-- Core Web & MERN -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql" height="50"/>
-  <br/>
-  <!-- AI/ML -->
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,huggingface" height="50"/>
-  <br/>
-  <!-- Styling & Frontend -->
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" height="50"/>
-  <br/>
-  <!-- Tools & DevOps -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" height="50"/>
-  <br/>
-  <!-- Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify" height="50"/>
+### 🛠️ Skills & Tools
+#### 🚀 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,redux" height="45"/>
+</p>
+
+#### 🤖 AI & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="45"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="huggingface"/>
+</p>
+
+#### 🎨 Styling & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" height="45"/>
+</p>
+
+#### 🛠️ Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" height="45"/>
+</p>
+
+#### ☁️ Cloud & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify" height="45"/>
 </p>
 
 ---
 
-### 🚀 Pinned Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 📝 **Notes App (NoteZen)** | Full-stack notes app with CRUD, built with **React, Tailwind, Express, MongoDB Atlas** | MERN |
-| 💳 **ATM Management System** | Local storage based system for sign in, dashboard, transactions, pin change | React + Tailwind |
-| 🛒 **E-Commerce App** | Product listing, cart, checkout & free shipping features | React, Redux, Bootstrap |
-| 🛡️ **Phishing Website Detector** | Cybersecurity project using ML techniques | Python, Scikit-learn |
-| 🤖 **AI Story-to-Image Generator** | Generates story scenes + images using Hugging Face models | Node.js, Express, Hugging Face API |
+### ✨ Highlights
+- ✔️ Built multiple **MERN stack apps** (E-Commerce, Notes, ATM Management)  
+- ✔️ Worked on **Cybersecurity ML project** (Phishing Website Detector)  
+- ✔️ Exploring **Text + Image Generation AI models** with Hugging Face  
+
+---
+
+### 🛤️ Learning Journey
+📌 **Past:** MERN Stack + Cybersecurity basics  
+📌 **Present:** AI/ML + Generative AI + Hugging Face  
+📌 **Future:** Agentic AI + RAG + Deployment at scale  
 
 ---
 
@@ -74,11 +86,3 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=YashwantBhole&show_icons=true&theme=react" alt="stats"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashwantBhole&layout=compact&theme=react" alt="languages"/>
 </p>
-
----
-
-### 🛤️ Current Roadmap
-- ✅ Built **MERN stack projects** (E-Commerce, Notes App, ATM System)  
-- ✅ Explored **Cybersecurity projects** (Phishing Detector, Spam Filter)  
-- 🔄 Currently learning **AI/ML fundamentals, Generative AI & RAG systems**  
-- 🎯 Next: Deploy **Agentic AI projects** with **LangChain & Hugging Face**  
