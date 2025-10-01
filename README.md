@@ -28,16 +28,19 @@
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/yashwantbhole/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/YashwantBhole" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://instagram.com/yashwant_bhole_07" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:yashwantbhole2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
