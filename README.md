@@ -41,28 +41,24 @@
 ### 🛠️ Skills & Tools
 #### 🚀 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,redux" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,redux,tailwind,bootstrap" height="45"/>
 </p>
 
 #### 🤖 AI & ML
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" height="45"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="huggingface"/>
 </p>
 
-#### 🎨 Styling & UI
+#### 🛠️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" height="45"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" height="45"/>
 </p>
 
-#### 🛠️ Tools & DevOps
+#### ☁️ Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" height="45"/>
-</p>
-
-#### ☁️ Cloud & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify" height="45"/>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" height="45"/>
+  <img src="https://img.shields.io/badge/GitHub%20Pages-100000?style=for-the-badge&logo=github&logoColor=white" height="28"/>
 </p>
 
 ---
