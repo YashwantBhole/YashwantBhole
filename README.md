@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashwant Bhole</h1>
-<h3 align="center">🚀 Full Stack Developer | Exploring AI & Agentic AI</h3>
+<h3 align="center">🚀 Next-Gen Developer: MERN, Cybersecurity & AI</h3>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1Bx5xGQN4u00xJTllODWGpHlrLXEk1S9j/view?usp=sharing" target="_blank">
