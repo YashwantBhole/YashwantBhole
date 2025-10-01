@@ -79,6 +79,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YashwantBhole&show_icons=true&theme=react" alt="stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YashwantBhole&show_icons=true&theme=react" alt="stats"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashwantBhole&layout=compact&theme=react" alt="languages"/>
 </p>
