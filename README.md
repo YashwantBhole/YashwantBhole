@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashwant Bhole</h1>
-<h3 align="center">🚀 Full Stack Developer | Exploring AI & Agentic AI</h3>
+<h3 align="center">🚀Next-Gen Developer: MERN, Cybersecurity & AI</h3>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1Bx5xGQN4u00xJTllODWGpHlrLXEk1S9j/view?usp=sharing" target="_blank">
@@ -57,14 +57,16 @@
 
 #### ☁️ Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" height="45"/>
-  <img src="https://img.shields.io/badge/GitHub%20Pages-100000?style=for-the-badge&logo=github&logoColor=white" height="28"/>
+#### ☁️ Cloud & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify" height="45"/>
+</p>
 </p>
 
 ---
 
 ### ✨ Highlights
-- ✔️ Built multiple **MERN stack apps** (E-Commerce, Notes, ATM Management)  
+- ✔️ Built multiple **MERN stack apps** (Notes,imdb clone, E-commerce)  
 - ✔️ Worked on **Cybersecurity ML project** (Phishing Website Detector)  
 - ✔️ Exploring **Text + Image Generation AI models** with Hugging Face  
 
