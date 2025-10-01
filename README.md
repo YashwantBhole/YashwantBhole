@@ -55,17 +55,16 @@
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" height="45"/>
 </p>
 
-#### ☁️ Deployment
+#### ☁️ Cloud & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" height="45"/>
-  <img src="https://img.shields.io/badge/GitHub%20Pages-100000?style=for-the-badge&logo=github&logoColor=white" height="28"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify" height="45"/>
 </p>
 
 ---
 
 ### ✨ Highlights
-- ✔️ Built multiple **MERN stack apps** (E-Commerce, Notes, ATM Management)  
-- ✔️ Worked on **Cybersecurity ML project** (Phishing Website Detector)  
+- ✔️ Built multiple **MERN stack apps** (Notes, IMDB clone, E-Commerce)  
+- ✔️ Worked on **Cybersecurity ML project** (Password Strength Analyzer)  
 - ✔️ Exploring **Text + Image Generation AI models** with Hugging Face  
 
 ---
