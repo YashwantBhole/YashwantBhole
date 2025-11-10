@@ -82,7 +82,7 @@
 ---
 
 ### ✨ Highlights
-- ✔️ Built multiple **MERN stack apps** (Notes, IMDB clone, E-Commerce)  
+- ✔️ Built multiple **MERN stack apps** (Social-ChatApp, IMDB clone, E-Commerce)  
 - ✔️ Worked on **Cybersecurity ML project** (Password Strength Analyzer)  
 - ✔️ Exploring **Text + Image Generation AI models** with Hugging Face  
 
