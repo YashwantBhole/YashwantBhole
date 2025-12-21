@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=400&color=ff9900&center=true&width=850&lines=Full+Stack+(MERN)+Developer+|+AI+RAG+Projects+|+Spring+Boot+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=ff9900&center=true&width=850&lines=%F0%9F%9A%80+Next-Gen+Developer:+MERN,+Cybersecurity+%26+AI" alt="Typing animation"/>
 </h3>
 
 <p align="center">
@@ -20,120 +20,90 @@
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
+- 🌱 Exploring **AI, ML, and Agentic AI** after completing **MERN stack journey**  
+- 💡 Passionate about **building impactful projects** in web dev + AI  
+- 🛡️ Cybersecurity enthusiast with hands-on projects  
+- 📫 Reach me at **yashwantbhole2004@gmail.com**
 
-- 🚀 Full Stack **MERN Developer** with strong backend fundamentals  
-- 🤖 Built a **Hybrid RAG AI Knowledge Vault** (embeddings + OCR + vector search + LLM answers)  
-- ☁️ Learning **Cloud & Scalable Backend Engineering**  
-- 🧑‍💻 Currently upskilling in **Java + Spring Boot**  
-- 📬 Reach me at **yashwantbhole2004@gmail.com**
-
----
-
-## 🌐 Connect with Me
-
+### 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/yashwantbhole/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/YashwantBhole" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://instagram.com/yashwant_bhole_07" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:yashwantbhole2004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Skills & Tools
+### 🛠️ Skills & Tools
 
-### 🚀 Web & Backend Development
+#### 🚀 Web Development
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
-### 🧠 AI & RAG
+#### 🤖 AI & ML/Python Libraries
 <p align="left">
-  <img src="https://img.shields.io/badge/RAG-0D47A1?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vectors-6A1B9A?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/OCR-4CAF50?style=for-the-badge&logo=tesla&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-A9A9A9?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-A9A9A9?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-A9A9A9?style=for-the-badge&logo=huggingface&logoColor=white" />
 </p>
 
-### ☁️ Cloud & Deployment
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backblaze_B2-CC0000?style=for-the-badge&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-046380?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-01847A?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
-
-### 🔧 Tools
+#### 🛠️ Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-B23B23?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+#### ☁️ Cloud & Deployment
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-01847A?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-001112?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 ---
 
-## ✨ Project Highlights
-
-### 🔥 **AI Knowledge Vault (Hybrid RAG System — MERN + Gemini + OCR)**
-- Document & Image Upload (PDF, DOCX, PNG, JPG)
-- Text Extraction (PDF parser + OCR)
-- Chunking + Overlap
-- Embeddings (Gemini)
-- Vector Search (Cosine Similarity)
-- LLM-powered Q&A with grounded context  
-📍 *This is my flagship full-stack + AI project.*
-
-### 📦 MERN Projects
-- IMDB Clone  
-- Chat Application  
-- E-Commerce Store  
-- Weather App, Quiz App, Image Search, ATM Simulation  
+### ✨ Highlights
+- ✔️ Built multiple **MERN stack apps** (Social-ChatApp, IMDB clone, E-Commerce)  
+- ✔️ Worked on **Cybersecurity ML project** (Password Strength Analyzer)  
+- ✔️ Exploring **Text + Image Generation AI models** with Hugging Face  
 
 ---
 
-## 🛤️ Learning Journey
-
-📌 **Current Focus:**  
-- Java + Spring Boot (Backend Engineering)  
-- Cloud fundamentals (AWS)  
-- Scalable architectures  
-
-📌 **Next Goals:**  
-- Spring Boot REST APIs  
-- Spring Data JPA + PostgreSQL  
-- Microservices (later step)  
-- Deploy Java backend on AWS  
+### 🛤️ Learning Journey
+📌 **Past:** MERN Stack + Cybersecurity basics  
+📌 **Present:** AI/ML + Generative AI + Hugging Face  
+📌 **Future:** Agentic AI + RAG + Deployment at scale  
 
 ---
 
-## 📊 GitHub Stats
-
+### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YashwantBhole&show_icons=true&theme=react" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashwantBhole&layout=compact&theme=react" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YashwantBhole&show_icons=true&theme=react" alt="stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashwantBhole&layout=compact&theme=react" alt="languages"/>
 </p>
-
----
-
-## 🚀 Final Thoughts
-
-I’m building myself into a **strong backend + full-stack engineer** by combining:
-- MERN foundations  
-- Real AI integration (Hybrid RAG system)  
-- Cloud deployment  
-- Java + Spring Boot learning  
-
-If you like my work, consider giving ⭐ to the projects!
-
