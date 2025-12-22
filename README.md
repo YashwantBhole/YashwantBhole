@@ -21,11 +21,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🚀 Full-stack dev transitioning into **Backend Engineering (Java + Spring Boot)**
+- 🚀 Full-stack dev transitioning into **Backend Engineering**
 - 🌱 Learning **Spring Boot, SQL & AWS** to build scalable backend systems
 - 💡 Built an **AI + RAG Knowledge Vault** using MERN + cloud integrations
 - 🧩 Interested in APIs, system design, clean architecture & deployments
-- 📚 Exploring microservices, Docker & backend best practices (12–18 month roadmap)
+- 📚 Exploring microservices, Docker & backend best practices
 - 📫 Reach me at **yashwantbhole2004@gmail.com**
 
 
